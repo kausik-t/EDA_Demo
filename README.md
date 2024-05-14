@@ -33,6 +33,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
 2. git clone: (https://github.com/kausik-t/EDA_Demo.git)
+
 3.Install the required dependencies:
 pip install -r requirements.txt
 4. Run the Colab notebook:
