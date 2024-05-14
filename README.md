@@ -33,11 +33,9 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
 2. git clone: (https://github.com/kausik-t/EDA_Demo.git)
+3. Run the Colab notebook:
 
-3.Install the required dependencies:
-pip install -r requirements.txt
-4. Run the Colab notebook:
-5. ## Usage
+## Usage
 
 The Colab notebook `Kidney Disease Prediction.ipynb` contains the code for data preprocessing, model training, and evaluation. Follow the instructions in the notebook to execute the code and train the machine learning model.
 
